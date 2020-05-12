@@ -73,6 +73,13 @@ export default [
       username: "paulmcquad",
       website: "https://paulmcquad.github.io/",
       skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP", "C/C++"]
-  }
+  },
+      {
+    id: "lala1234",
+    name: "Devang Sharma",
+    title: "JavaScript Developer",
+    username: "devang-sharma",
+    skills: ["JavaScript"],
+  },
   
 ];
